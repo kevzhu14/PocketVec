@@ -22,7 +22,7 @@ The **PocketVec Repository** holds the code needed to create a PocketVec descrip
 1. Clone this repository to your local PocketVec folder:
         
         cd ~ && mkdir -p pocketvec && cd pocketvec
-        git clone https://gitlabsbnb.irbbarcelona.org/acomajuncosa/pocketvec.git
+        git clone https://github.com/sbnb-irb/pocketvec.git
 
 2. Create and activate a conda environment with all the requirements:
 
